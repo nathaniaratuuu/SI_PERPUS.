@@ -1,6 +1,6 @@
-# Inven BS
+# SI_PERPUS
 
-Aplikasi inventaris barang sekolah menggunakan Framework Laravel 5.8. Aplikasi ini cocok untuk digunakan untuk disekolah atau umum. Aplikasi ini memiliki 3 role, yaitu _Administrator Perpustakaan_, _Operator Perpustakaan_ dan _Anggota Perpustakaan_. Beberapa CRUD menggunakan AJAX untuk pengambilan data agar mengurangi penggunaan pindah halaman.
+Aplikasi SI_PERPUS menggunakan Framework Laravel 5.8. Aplikasi ini cocok untuk digunakan untuk disekolah/dikampus atau umum. Aplikasi ini memiliki 2 role, yaitu _Administrator Perpustakaan_, dan _Anggota Perpustakaan_. Beberapa CRUD menggunakan AJAX untuk pengambilan data agar mengurangi penggunaan pindah halaman.
 
 ### Prasyarat
 
@@ -14,7 +14,8 @@ Berikut beberapa hal yang perlu diinstal terlebih dahulu:
 Jika Anda menggunakan XAMPP, untuk PHP dan MySQL sudah menjadi 1 (bundle) didalam aplikasi XAMPP.
 
 ### Fitur
-
+-   Register
+-   Log In
 -   CRUD Pengguna
 -   CRUD Kategori Buku
 -   CRUD Buku
@@ -22,23 +23,32 @@ Jika Anda menggunakan XAMPP, untuk PHP dan MySQL sudah menjadi 1 (bundle) didala
 
 ### Preview Gambar
 
+_Register_
+![Image 1](https://imgur.com/yHr0VvD)
+
+_Log In Admin_
+![Image 2](https://imgur.com/G7bDqB2)
+
+_Log In Anggota_
+![Image 3](https://imgur.com/0jUQJh1)
+
 _Dashboard_
-![Image 2](https://i.imgur.com/IOgIyIi.png)
+![Image 4](https://i.imgur.com/IOgIyIi.png)
 
 _Daftar Pengguna_
-![Image 3](https://i.imgur.com/e3rkQ45.png)
+![Image 5](https://imgur.com/0GY115M)
 
 _Daftar Kategori Buku_
-![Image 4](https://i.imgur.com/WVEAyKi.png)
+![Image 6](https://imgur.com/HnDstRF)
 
 _Daftar Buku_
-![Image 5](https://i.imgur.com/3Jarbbv.png)
+![Image 7](https://imgur.com/aEAMnib)
 
 _Daftar Peminjam Buku_
-![Image 5](https://i.imgur.com/4z18siI.png)
+![Image 8](https://imgur.com/tcD5HoE)
 
 _Histori Peminjam Buku_
-![Image 5](https://i.imgur.com/nzqiVSv.png)
+![Image 9](https://imgur.com/aLCpm6q)
 
 ### Langkah-langkah instalasi
 
@@ -91,15 +101,6 @@ Password    : secret
 
 -   [Laravel](https://laravel.com) - Web Framework
 
-### Kontribusi
-
-Silahkan request melalui kolom `Pull Requests` jika ingin melakukan kontribusi
-
 ### Lisensi
 
 Aplikasi ini boleh untuk dibagi dan diubah. Mohon tidak untuk diperjualbelikan!
-
-### Ucapan terima kasih
-
--   Stackoverflow
--   Google
