@@ -24,31 +24,31 @@ Jika Anda menggunakan XAMPP, untuk PHP dan MySQL sudah menjadi 1 (bundle) didala
 ### Preview Gambar
 
 _Register_
-![Image 1](https://imgur.com/yHr0VvD)
+![Image 1](https://imgur.com/undefined)
 
 _Log In Admin_
-![Image 2](https://imgur.com/G7bDqB2)
+![Image 2](https://imgur.com/3vE7RoI)
 
 _Log In Anggota_
-![Image 3](https://imgur.com/0jUQJh1)
+![Image 3](https://imgur.com/jywhlmC)
 
 _Dashboard_
-![Image 4](https://i.imgur.com/IOgIyIi.png)
+![Image 4](https://imgur.com/f8y40CF)
 
 _Daftar Pengguna_
-![Image 5](https://imgur.com/0GY115M)
+![Image 5](https://imgur.com/mZuXxKd)
 
 _Daftar Kategori Buku_
-![Image 6](https://imgur.com/HnDstRF)
+![Image 6](https://imgur.com/KzGhjhr)
 
 _Daftar Buku_
-![Image 7](https://imgur.com/aEAMnib)
+![Image 7](https://imgur.com/NM6Itmn)
 
 _Daftar Peminjam Buku_
-![Image 8](https://imgur.com/tcD5HoE)
+![Image 8](https://imgur.com/6Vv1GH4)
 
 _Histori Peminjam Buku_
-![Image 9](https://imgur.com/aLCpm6q)
+![Image 9](https://imgur.com/HWiq5pU)
 
 ### Langkah-langkah instalasi
 
